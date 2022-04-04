@@ -3,9 +3,7 @@
 ### BJ / LGD / MG
 - Data files Box-Jenkins Gas Furnace [(BJ)](https://ieeexplore.ieee.org/abstract/document/1315946), Dataset A: Laser Generated Data [(LGD)](https://ieeexplore.ieee.org/abstract/document/6227361) and Mackey–Glass Chaotic Time Series [(MG)](https://ieeexplore.ieee.org/abstract/document/1661394).
 
-:warning: The file normalized_dataset.zip is used for every model and contains the normalized historical measures.
-
-:information_source: Pieces of the code are from the [Kernel Adaptive Filtering Toolbox](https://github.com/steven2358/kafbox).
+:warning: The number of samples used for the learning and test phases was chosen based on [Yeh (2013)](https://ieeexplore.ieee.org/abstract/document/6410433) as well as other parameters that will be presented in the next section.
 
 ### SOURCE
 
