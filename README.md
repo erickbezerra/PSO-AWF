@@ -1,7 +1,7 @@
 # PSO-AWF
 
 ### BJ / LGD / MG
-- Data files Box-Jenkins Gas Furnace [(BJ)](https://ieeexplore.ieee.org/abstract/document/1315946), Dataset A: Laser Generated Data [(LGD)](https://ieeexplore.ieee.org/abstract/document/6227361) and Mackey–Glass Chaotic Time Series [(MG)](https://ieeexplore.ieee.org/abstract/document/1661394).
+- Data files Box-Jenkins Gas Furnace [(BJ)](https://www.wiley.com/en-br/Time+Series+Analysis%3A+Forecasting+and+Control%2C+5th+Edition-p-9781118674918), Dataset A: Laser Generated Data [(LGD)](https://www.taylorfrancis.com/books/mono/10.4324/9780429492648/time-series-prediction-andreas-weigend) and Mackey–Glass Chaotic Time Series [(MG)](https://www.science.org/doi/abs/10.1126/science.267326).
 
 :warning: The number of samples used for the learning and test phases was chosen based on [Yeh (2013)](https://ieeexplore.ieee.org/abstract/document/6410433) as well as other parameters.
 
