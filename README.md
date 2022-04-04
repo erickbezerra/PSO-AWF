@@ -9,4 +9,4 @@
 
 ### SOURCE
 
-:page_facing_up: [E. C. Bezerra, P. Pinson, R. P. S. Leão and A. P. S. Braga, "A Self-Adaptive Multikernel Machine Based on Recursive Least-Squares Applied to Very Short-Term Wind Power Forecasting," in IEEE Access, vol. 9, pp. 104761-104772, 2021, doi: 10.1109/ACCESS.2021.3099999](https://ieeexplore.ieee.org/abstract/document/9495822).
+:page_facing_up: [Bezerra, E.C., Leão, R.P.S. & Braga, A.P.d.S. A Self-Adaptive Approach for Particle Swarm Optimization Applied to Wind Speed Forecasting. J Control Autom Electr Syst 28, 785–795 (2017). https://doi.org/10.1007/s40313-017-0339-6](https://link.springer.com/article/10.1007/s40313-017-0339-6).
