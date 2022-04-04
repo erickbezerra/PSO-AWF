@@ -1,7 +1,7 @@
 # PSO-AWF
 
 ### BJ / LGD / MG
-- Data files Box-Jenkins gas furnace [(BJ)](https://ieeexplore.ieee.org/abstract/document/1315946), [KRLS-T](https://ieeexplore.ieee.org/abstract/document/6227361) and [SW-KRLS](https://ieeexplore.ieee.org/abstract/document/1661394).
+- Data files Box-Jenkins gas furnace [(BJ)](https://ieeexplore.ieee.org/abstract/document/1315946), laser generated data [(LGD)](https://ieeexplore.ieee.org/abstract/document/6227361) and Mackey-Glass [(MG)](https://ieeexplore.ieee.org/abstract/document/1661394).
 
 :warning: The file normalized_dataset.zip is used for every model and contains the normalized historical measures.
 
